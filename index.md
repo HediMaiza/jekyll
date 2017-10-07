@@ -16,6 +16,6 @@ baseurl: ""
 
 <ul>
 {% for page in site.html_pages %}
-<li><a href="{{ page.url }}">{{page.title}}</a></li>
+<li><a href="jekyll/{{ page.url }}">{{page.title}}</a></li>
 {% endfor %}
 </ul>
