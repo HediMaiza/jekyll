@@ -2,7 +2,7 @@
 
 title: Le Blog de Mohamed Maïza, un intégrateur comme un autre.
 description: Ici, de tout et de rien ...
-url: "http://monsite.io"
+url: "https://hedimaiza.github.io/"
 baseurl: ""
 ---
 
