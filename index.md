@@ -16,6 +16,6 @@ baseurl: ""
 
 <ul>
 {% for page in site.html_pages %}
-<li>{{page.title}}</li>
+<li><a href="{{ page.url }}">{{page.title}}</a></li>
 {% endfor %}
 </ul>
