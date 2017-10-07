@@ -12,3 +12,8 @@ description: Ici, de tout et de rien ...
 <p>Lorem bla bla ipsum dolor met siniusla ipsum dolor met siniusla ipsum dolor met siniusla ipsum dolor met sinius </p>
 
 
+<ul>
+{% for page in site.html_pages %}
+<li>{{page.title}}</li>
+{% endfor %}
+</ul>
