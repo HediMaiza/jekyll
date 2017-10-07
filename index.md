@@ -1,7 +1,7 @@
 ---
 
 title: Le Blog de Mohamed Maïza, un intégrateur comme un autre.
-description: de tout et de rien...
+description: Ici, de tout et de rien ...
 ---
 
 # Bonjour
