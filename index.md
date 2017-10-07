@@ -1,10 +1,10 @@
 ---
 
-title: Blog Mohamed Maïza
+title: Le Blog de Mohamed Maïza, un intégrateur comme un autre.
 description: de tout et de rien...
 ---
 
-# Bonjour h1
+# Bonjour
 {{site.description}}
 
 <h1>{{ page.title }}</h1>
