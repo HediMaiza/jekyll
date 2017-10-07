@@ -10,6 +10,7 @@ baseurl: ""
 {{site.description}}
 
 <h1>{{ page.title }}</h1>
+url : {{ page.url }}
 
 <p>Lorem bla bla ipsum dolor met siniusla ipsum dolor met siniusla ipsum dolor met siniusla ipsum dolor met sinius </p>
 
