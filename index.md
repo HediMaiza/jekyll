@@ -7,7 +7,7 @@ baseurl: ""
 ---
 
 # Bonjour
-{{site.description}}
+{{site.description}} : coco.
 
 <h1>{{ page.title }}</h1>
 url : {{ page.url }}
